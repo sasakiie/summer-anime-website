@@ -1,0 +1,98 @@
+body{
+    background-color: #FFFAEE;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Mali', cursive;
+}
+
+img{
+    border-radius: 25px;
+}
+
+
+.carousel-item{
+ height:55rem; 
+ background:#777;
+ color: white;
+ position: relative ;
+    
+}
+
+
+.container {
+ position: absolute;
+ bottom:0;
+ left:0;
+ right:0;
+ padding-bottom:60px;
+    
+}
+
+.overlay-image{
+    position: absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    top: 0;
+    background-position: center;
+    background-size: cover; 
+    opacity: 0.4 ;
+  
+}
+
+.featurette-divider {
+   margin: 5rem 0; 
+   
+} 
+
+.featurette-heading {
+    font-size: 50px;
+    
+    
+}
+
+.lead {
+    font-size: 20px;
+    color: #000 ;
+    margin-left: 40px;
+    display: block;
+}
+  
+.d-flex{
+    margin-left: 900px;
+}
+
+.col-md-5 {
+    border: 5px solid #a25335;
+    border-radius: 25px;
+    padding: 5px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.navbar-nav {
+  float:none;
+  margin: 0 auto;
+  text-align: center;
+  padding-right: 310px;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}     
+
+#rcorner1 {
+    border-radius: 25px;
+    background-color: #B5FFF1;
+}
+
+.strokeme{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}

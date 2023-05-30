@@ -1,0 +1,27 @@
+body{
+    background-color:#B25D3E;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Mali', cursive;
+}
+
+img {
+    border: 5px solid #B25D3E;
+    border-radius: 25px;
+}
+
+.navbar-nav {
+    float:none;
+    margin: 0 auto;
+    text-align: center;
+    padding-right: 310px;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}     
+
+#rcorner1 {
+    border-radius: 25px;
+    background-color: #FFFAEE;
+}
